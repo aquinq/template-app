@@ -2,7 +2,7 @@ const webpack = require("webpack");
 const path = require("path");
 
 module.exports = {
-  entry: ["client/index.tsx"],
+  entry: ["client/index.tsx", "webpack-hot-middleware/client"],
   output: {
     chunkFilename: "main.vendor.js",
     filename: "main.js",
