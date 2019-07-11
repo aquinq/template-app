@@ -1,0 +1,35 @@
+{
+  "name": "template-app",
+  "version": "1.0.0",
+  "description": "Template App",
+  "main": "boot.js",
+  "scripts": {
+    "dev": "node boot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquinq/template-app.git"
+  },
+  "author": "Antoine Quinquenel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquinq/template-app/issues"
+  },
+  "homepage": "https://github.com/aquinq/template-app#readme",
+  "dependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-router-dom": "^4.3.4",
+    "awesome-typescript-loader": "^5.2.1",
+    "express": "^4.17.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-hot-loader": "^4.12.6",
+    "react-router-dom": "^5.0.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-middleware": "^3.7.0",
+    "webpack-hot-middleware": "^2.25.0"
+  }
+}
