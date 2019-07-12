@@ -20,7 +20,7 @@ $ npm run dev
 
 ## React
 
-```index.tsx``` renders the app container ```<App />``` React component, creating a ```<BrowserRouter />```.
+```index.tsx``` renders the app container ```<App />``` React component, and creates a ```<BrowserRouter />```.
 
 ## Webpack
 
