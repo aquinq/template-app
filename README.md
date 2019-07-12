@@ -32,7 +32,7 @@ $ npm run dev
 
 🔥 Hot Module Replacement.
 
-**Core app scripts are compiled separately with vendor scripts, such as node modules.*
+\**Core app scripts are compiled separately with vendor scripts, such as node modules.*
 
 ## Node
 
