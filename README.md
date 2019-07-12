@@ -13,7 +13,7 @@ A simple template app for building React web applications running on a Node serv
 
 ### Webpack
 
-**Webpack config enables :
+**Webpack config enables :**
 
 🚀   Compilation for TypeScript and Sass files.
 
@@ -21,6 +21,6 @@ A simple template app for building React web applications running on a Node serv
 
 🔥    Hot Module Replacement.
 
-*Core app scripts are compiled separately with vendor scripts, such as node modules.
+*Core app scripts are compiled separately with vendor scripts, such as node modules.*
 
 
