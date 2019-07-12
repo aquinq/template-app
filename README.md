@@ -17,7 +17,7 @@ A simple template app for building React web applications running on a Node serv
 
 👓   Source mapping for debug.
 
-🔥    Hot Module Replacement.
+ 🔥    Hot Module Replacement.
 
 *Core app scripts are compiled separately with vendor scripts, such as node modules.*
 
