@@ -4,14 +4,12 @@ A simple template app for building React web applications running on a Node serv
 
 
 
-## Setup
-
-### React
+## React
 
 ```index.tsx``` renders the app container ```<App />``` React component, creating a ```<BrowserRouter />```.
 
 
-### Webpack
+## Webpack
 
 **Webpack config enables :**
 
