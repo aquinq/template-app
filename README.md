@@ -2,7 +2,6 @@
 
 A simple template app for building React web applications running on a Node server.
 
-
 ## Getting started
 
 ### Installation :
@@ -19,13 +18,9 @@ $ npm run dev
 
 ```dev``` script starts Node server and run webpack using the config file provided.
 
-
-
 ## React
 
 ```index.tsx``` renders the app container ```<App />``` React component, creating a ```<BrowserRouter />```.
-
-
 
 ## Webpack
 
@@ -38,8 +33,6 @@ $ npm run dev
 🔥 Hot Module Replacement.
 
 *Core app scripts are compiled separately with vendor scripts, such as node modules.*
-
-
 
 ## Node
 
