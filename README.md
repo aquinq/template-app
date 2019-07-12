@@ -26,13 +26,13 @@ $ npm run dev
 
 **Webpack config enables :**
 
-🚀 Compilation for TypeScript and Sass files.
+🚀 Compilation* for TypeScript and Sass files.
 
 👓 Source mapping for debug.
 
 🔥 Hot Module Replacement.
 
-*Core app scripts are compiled separately with vendor scripts, such as node modules.*
+\**Core app scripts are compiled separately with vendor scripts, such as node modules.*
 
 ## Node
 
